@@ -1,0 +1,17 @@
+h1,h2{
+    text-align: center;
+}
+body{
+    width: 90%;
+    background-color: tan;
+}
+article{
+    background-color: white;
+    margin: 50px;
+}
+li{
+    margin:10px
+}
+p{
+    margin-left: 20px;
+}
