@@ -8,6 +8,7 @@ body{
 article{
     background-color: white;
     margin: 50px;
+    border-radius: 1rem;
 }
 li{
     margin:10px
